@@ -1,0 +1,182 @@
+.chess-board{
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin-left: 280px;
+    margin-top: 120px;
+}
+.chess-board td{
+    border: 1px solid ;
+    width: 80px;
+    height: 80px;
+}
+.chess-board .light{
+    background-color: burlywood;
+}
+.chess-board .dark{
+    background-color: brown;
+}
+img{
+    height: 70px;
+    position: absolute;
+    margin-top:-657px ;
+    margin-left: 550px;
+}
+.queen{
+    margin-left: 630px;
+    height: 70px;
+}
+.knight{
+    margin-left: 368px;
+    height: 70px;
+}
+.two{
+    height: 70px;
+    margin-left: 785px;
+}
+.rook{
+    height: 80px;
+    margin-left: 295px;
+    margin-top: -675px;
+}
+.three{
+    height: 80px;
+    margin-left: 875px;
+    margin-top: -675px;
+}
+.bishop{
+    height: 70px;
+    margin-left: 460px;
+}
+.four{
+    height: 70px;
+    margin-left: 710px;
+}
+.pon{
+    height: 70px;
+    margin-top: -575px;
+    margin-left: 380px;
+}
+.five{
+    margin-top: -575px;
+    margin-left: 465px;
+}
+.six{
+    margin-top: -575px;
+    margin-left: 548px;
+}
+.seven{
+    margin-top: -575px;
+    margin-left: 630px;
+}
+.eight{
+    margin-top: -575px;
+    margin-left: 712px;
+}
+.nine{
+    margin-top: -575px;
+    margin-left: 795px;
+}
+.ten{
+    margin-top: -575px;
+    margin-left: 880px;
+}
+.eleven{
+    margin-top: -575px;
+    margin-left: 300px;
+}
+.twelve{
+    height: 70px;
+    position: relative;
+    margin-bottom: 20px;
+    margin-left: 520px;
+}
+.thirteen{
+    height: 70px;
+    position: relative;
+    margin-bottom: 22px;
+    margin-left: 10px;
+}
+.fourteen{
+    position: relative;
+    height: 60px;
+    margin-left: -320px;
+    margin-bottom: 22px;
+}
+.fifteen{
+    position: relative;
+    height: 60px;
+    margin-left: 355px;
+    margin-bottom: 22px;
+}
+.sixteen{
+    position: relative;
+    height: 70px;
+    margin-left: 450px;
+    margin-bottom: 38px;
+}
+.seventeen{
+    position: relative;
+    height: 70px;
+    margin-left: 180px;
+    margin-bottom: 38px;
+}
+.eighteen{
+    position: relative;
+    height: 50px;
+    margin-bottom: 45px;
+    margin-left: -505px;
+}
+.ninteen{
+    position:relative;
+    height: 50px;
+    margin-bottom: 45px;
+    margin-left: 485px;
+}
+.twenty{
+    position:relative;
+    height: 65px;
+    margin-bottom: 124px;
+    margin-left: -72px;
+}
+.twentyone{
+    position: relative;
+    height: 65px;
+    margin-left: -138px;
+    margin-bottom: 124px;
+}
+.twentytwo{
+    position: relative;
+    height: 65px;
+    margin-left: -138px;
+    margin-bottom: 124px;
+}
+.twentythree{
+    position: relative;
+    height: 65px;
+    margin-left: -138px;
+    margin-bottom: 124px;
+}
+.twentyfour{
+    position: relative;
+    height: 65px;
+    margin-left: -138px;
+    margin-bottom: 124px;    
+}
+.twentyfive{
+    position: relative;
+    height: 65px;
+    margin-left: -138px;
+    margin-bottom: 124px;
+}
+.twentysix{
+    position: relative;
+    height: 65px;
+    margin-left: -138px;
+    margin-bottom: 124px;
+}
+.twentyseven{
+    position: relative;
+    height: 65px;
+    margin-left: -138px;
+    margin-bottom: 124px;
+}
